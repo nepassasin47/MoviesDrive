@@ -1,0 +1,19 @@
+{
+  "name": "MoviesDrive",
+  "description": "MoviesDrives provider for Cloudstream3 - Stream movies and TV series from new2.moviesdrives.my",
+  "author": "nepassasin47",
+  "repositoryUrl": "https://github.com/nepassasin47/MoviesDrive",
+  "pluginLists": [
+    {
+      "name": "MoviesDrives",
+      "url": "https://github.com/nepassasin47/MoviesDrive/releases/download/latest/MoviesDrives.cs3",
+      "version": 1,
+      "description": "Stream movies and TV series from MoviesDrives",
+      "authors": ["nepassasin47"],
+      "repositoryUrl": "https://github.com/nepassasin47/MoviesDrive",
+      "status": 1,
+      "tvTypes": ["Movie", "TvSeries"],
+      "language": "en"
+    }
+  ]
+}
