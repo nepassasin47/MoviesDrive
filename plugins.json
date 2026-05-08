@@ -6,7 +6,7 @@
   "pluginLists": [
     {
       "name": "MoviesDrives",
-      "url": "https://github.com/nepassasin47/MoviesDrive/releases/download/latest/MoviesDrives.cs3",
+      "url": "https://github.com/nepassasin47/MoviesDrive/raw/builds/MoviesDrives.cs3",
       "version": 1,
       "description": "Stream movies and TV series from MoviesDrives",
       "authors": ["nepassasin47"],
